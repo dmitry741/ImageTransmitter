@@ -1,3 +1,3 @@
 # ImageTransmitter
-Smooth transition between two image with the same sizes.
+Smooth transitions between two images with the same sizes.
 Developed by Dmitry Pavlov 2017
