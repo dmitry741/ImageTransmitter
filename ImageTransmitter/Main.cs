@@ -8,6 +8,8 @@ namespace ImageTransmitter
 {
     public class PDImageTransmitter : IDisposable
     {
+        // Developed by Dmitry Pavlov 2017.
+
         #region === members ===
 
         ImageMap m_imageMapStart = null;
